@@ -305,7 +305,7 @@ git lg
 
 ### branch 전략
 #### Git branch 전략 (Git Flow)
-- ![GitFlow](./images/gitflow.png)
+- ![GitFlow](https://user-images.githubusercontent.com/63104048/85667303-67edbe00-b6f8-11ea-9e59-7a2fdd8f7f99.png)
 - master
   - git init하면 생기는 태초의 브랜치
   - 배포 가능한, 말그대로 master 브랜치
